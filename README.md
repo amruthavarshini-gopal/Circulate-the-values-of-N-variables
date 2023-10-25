@@ -23,7 +23,6 @@ def circulate():
 ```
 
 ## Output:
-
 ![Alt text](circulating.png)
 
 ## Result:
