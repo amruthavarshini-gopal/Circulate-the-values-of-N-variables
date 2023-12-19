@@ -31,7 +31,9 @@ def circulate():
 ```
 
 ## Output:
-![Alt text](circulating.png)
+
+![Alt text](circulate.png)
 
 ## Result:
+
 Thus the circulation of n variables are successfully executed
